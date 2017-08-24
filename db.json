@@ -1,6 +1,7 @@
 {
 	"stocks": [
 		{
+			"_id": "AA7KKC",
 			"wkn": "AA7KKC",
 			"name": "Name",
 			"isin": "DE000AA7KKC6",
@@ -36,6 +37,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "AA7KKD",
 			"wkn": "AA7KKD",
 			"name": "Barr.Gold B. 25 RBS 09/14",
 			"isin": "DE000AA7KKD4",
@@ -71,6 +73,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "AA7KKE",
 			"wkn": "AA7KKE",
 			"name": "Barr.Gold B. 26 RBS 09/14",
 			"isin": "DE000AA7KKE2",
@@ -106,6 +109,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "AA7KKF",
 			"wkn": "AA7KKF",
 			"name": "Barr.Gold B. 28 RBS 09/14",
 			"isin": "DE000AA7KKF9",
@@ -141,6 +145,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "AA7KKG",
 			"wkn": "AA7KKG",
 			"name": "Barr.Gold B. 27 RBS 09/14",
 			"isin": "DE000AA7KKG7",
@@ -176,6 +181,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "AA7KKH",
 			"wkn": "AA7KKH",
 			"name": "Barr.Gold B. 29 RBS 09/14",
 			"isin": "DE000AA7KKH5",
@@ -211,6 +217,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "AA7KKJ",
 			"wkn": "AA7KKJ",
 			"name": "Barr.Gold B. 25 RBS 12/14",
 			"isin": "DE000AA7KKJ1",
@@ -246,6 +253,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CK4VRA",
 			"wkn": "CK4VRA",
 			"name": "Barr.Gold B. 26 RBS 12/14",
 			"isin": "DE000CK4VRA5",
@@ -281,6 +289,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JT9",
 			"wkn": "CZ9JT9",
 			"name": "DE000CK4VRA5",
 			"isin": "DE000CZ9JT98",
@@ -316,6 +325,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JTA",
 			"wkn": "CZ9JTA",
 			"name": "Commerzbank Knock-Out DJI 16.10.2013",
 			"isin": "DE000CZ9JTA8",
@@ -351,6 +361,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JTB",
 			"wkn": "CZ9JTB",
 			"name": "Commerzbank Knock-Out DJI 16.10.2013",
 			"isin": "DE000CZ9JTB6",
@@ -386,6 +397,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JTJ",
 			"wkn": "CZ9JTJ",
 			"name": "Commerzbank Knock-Out DJI 16.10.2013",
 			"isin": "DE000CZ9JTJ9",
@@ -421,6 +433,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JUL",
 			"wkn": "CZ9JUL",
 			"name": "Commerzbank Knock-Out S&#38;P 500 18.12.2013",
 			"isin": "DE000CZ9JUL3",
@@ -456,6 +469,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JUM",
 			"wkn": "CZ9JUM",
 			"name": "Commerzbank Knock-Out DAX",
 			"isin": "DE000CZ9JUM1",
@@ -491,6 +505,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JUN",
 			"wkn": "CZ9JUN",
 			"name": "Commerzbank Knock-Out DAX",
 			"isin": "DE000CZ9JUN9",
@@ -526,6 +541,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JUP",
 			"wkn": "CZ9JUP",
 			"name": "Commerzbank Knock-Out DAX",
 			"isin": "DE000CZ9JUP4",
@@ -561,6 +577,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JUQ",
 			"wkn": "CZ9JUQ",
 			"name": "Commerzbank Knock-Out DAX",
 			"isin": "DE000CZ9JUQ2",
@@ -596,6 +613,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JVC",
 			"wkn": "CZ9JVC",
 			"name": "Commerzbank Knock-Out MDAX",
 			"isin": "DE000CZ9JVC0",
@@ -631,6 +649,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JVD",
 			"wkn": "CZ9JVD",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JVD8",
@@ -666,6 +685,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JVE",
 			"wkn": "CZ9JVE",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JVE6",
@@ -701,6 +721,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JVF",
 			"wkn": "CZ9JVF",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JVF3",
@@ -736,6 +757,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JVG",
 			"wkn": "CZ9JVG",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JVG1",
@@ -771,6 +793,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JVJ",
 			"wkn": "CZ9JVJ",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JVJ5",
@@ -806,6 +829,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JVR",
 			"wkn": "CZ9JVR",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JVR8",
@@ -841,6 +865,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JVU",
 			"wkn": "CZ9JVU",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JVU2",
@@ -876,6 +901,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JVV",
 			"wkn": "CZ9JVV",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JVV0",
@@ -911,6 +937,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JVW",
 			"wkn": "CZ9JVW",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JVW8",
@@ -946,6 +973,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JW0",
 			"wkn": "CZ9JW0",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JW02",
@@ -981,6 +1009,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JW1",
 			"wkn": "CZ9JW1",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JW10",
@@ -1016,6 +1045,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JW6",
 			"wkn": "CZ9JW6",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JW69",
@@ -1051,6 +1081,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JW7",
 			"wkn": "CZ9JW7",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JW77",
@@ -1086,6 +1117,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JW8",
 			"wkn": "CZ9JW8",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JW85",
@@ -1121,6 +1153,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JW9",
 			"wkn": "CZ9JW9",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JW93",
@@ -1156,6 +1189,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JWA",
 			"wkn": "CZ9JWA",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JWA2",
@@ -1191,6 +1225,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JWK",
 			"wkn": "CZ9JWK",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JWK1",
@@ -1226,6 +1261,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JWN",
 			"wkn": "CZ9JWN",
 			"name": "Commerzbank Knock-Out DAX 16.10.2013",
 			"isin": "DE000CZ9JWN5",
@@ -1261,6 +1297,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JWP",
 			"wkn": "CZ9JWP",
 			"name": "Commerzbank Knock-Out DAX 13.11.2013",
 			"isin": "DE000CZ9JWP0",
@@ -1296,6 +1333,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JWQ",
 			"wkn": "CZ9JWQ",
 			"name": "Commerzbank Knock-Out DAX 18.12.2013",
 			"isin": "DE000CZ9JWQ8",
@@ -1331,6 +1369,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JWR",
 			"wkn": "CZ9JWR",
 			"name": "Commerzbank Knock-Out DAX 18.12.2013",
 			"isin": "DE000CZ9JWR6",
@@ -1366,6 +1405,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JWS",
 			"wkn": "CZ9JWS",
 			"name": "Commerzbank Knock-Out DAX 18.12.2013",
 			"isin": "DE000CZ9JWS4",
@@ -1401,6 +1441,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JWT",
 			"wkn": "CZ9JWT",
 			"name": "Commerzbank Knock-Out DAX 18.12.2013",
 			"isin": "DE000CZ9JWT2",
@@ -1436,6 +1477,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JWZ",
 			"wkn": "CZ9JWZ",
 			"name": "Commerzbank Knock-Out DAX 18.12.2013",
 			"isin": "DE000CZ9JWZ9",
@@ -1471,6 +1513,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JX0",
 			"wkn": "CZ9JX0",
 			"name": "Commerzbank Knock-Out DAX 18.06.2014",
 			"isin": "DE000CZ9JX01",
@@ -1506,6 +1549,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JX1",
 			"wkn": "CZ9JX1",
 			"name": "Commerzbank Knock-Out DAX 18.06.2014",
 			"isin": "DE000CZ9JX19",
@@ -1541,6 +1585,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9JX2",
 			"wkn": "CZ9JX2",
 			"name": "Commerzbank Knock-Out SX5E 16.10.2013",
 			"isin": "DE000CZ9JX27",
@@ -1576,6 +1621,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9K0B",
 			"wkn": "CZ9K0B",
 			"name": "Commerzbank Knock-Out SX5E 16.10.2013",
 			"isin": "DE000CZ9K0B4",
@@ -1611,6 +1657,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9K0C",
 			"wkn": "CZ9K0C",
 			"name": "Commerzbank Knock-Out DAX/XDAX 18.12.2013",
 			"isin": "DE000CZ9K0C2",
@@ -1646,6 +1693,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9K0D",
 			"wkn": "CZ9K0D",
 			"name": "Commerzbank Knock-Out DAX/XDAX 18.12.2013",
 			"isin": "DE000CZ9K0D0",
@@ -1681,6 +1729,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9K0F",
 			"wkn": "CZ9K0F",
 			"name": "Commerzbank Knock-Out DAX/XDAX 18.12.2013",
 			"isin": "DE000CZ9K0F5",
@@ -1716,6 +1765,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9K0N",
 			"wkn": "CZ9K0N",
 			"name": "Commerzbank Knock-Out DAX/XDAX 18.12.2013",
 			"isin": "DE000CZ9K0N9",
@@ -1751,6 +1801,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9K08",
 			"wkn": "CZ9K08",
 			"name": "Commerzbank Knock-Out DAX/XDAX 19.03.2014",
 			"isin": "DE000CZ9K081",
@@ -1786,6 +1837,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ9K09",
 			"wkn": "CZ9K09",
 			"name": "Commerzbank Knock-Out DAX/XDAX 18.12.2013",
 			"isin": "DE000CZ9K099",
@@ -1821,6 +1873,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ17GG",
 			"wkn": "CZ17GG",
 			"name": "Commerzbank Knock-Out DAX/XDAX 18.12.2013",
 			"isin": "DE000CZ17GG6",
@@ -1856,6 +1909,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92U2",
 			"wkn": "CZ92U2",
 			"name": "Commerzbank Knock-Out DAX 19.12.2012",
 			"isin": "DE000CZ92U28",
@@ -1891,6 +1945,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92U6",
 			"wkn": "CZ92U6",
 			"name": "Commerzbank Bonus Zert NOK1V 30.12.2013",
 			"isin": "DE000CZ92U69",
@@ -1926,6 +1981,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92UB",
 			"wkn": "CZ92UB",
 			"name": "Commerzbank Bonus Zert NOK1V 30.12.2013",
 			"isin": "DE000CZ92UB1",
@@ -1961,6 +2017,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92UD",
 			"wkn": "CZ92UD",
 			"name": "Commerzbank Bonus Zert NOK1V 30.12.2013",
 			"isin": "DE000CZ92UD7",
@@ -1996,6 +2053,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92UG",
 			"wkn": "CZ92UG",
 			"name": "Commerzbank Bonus Zert NOK1V 30.12.2013",
 			"isin": "DE000CZ92UG0",
@@ -2031,6 +2089,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92UH",
 			"wkn": "CZ92UH",
 			"name": "Commerzbank Bonus Zert NOK1V 30.12.2013",
 			"isin": "DE000CZ92UH8",
@@ -2066,6 +2125,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92UK",
 			"wkn": "CZ92UK",
 			"name": "Commerzbank Bonus Zert NOK1V 30.12.2013",
 			"isin": "DE000CZ92UK2",
@@ -2101,6 +2161,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92UR",
 			"wkn": "CZ92UR",
 			"name": "Commerzbank Bonus Zert NOK1V 30.12.2013",
 			"isin": "DE000CZ92UR7",
@@ -2136,6 +2197,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92V0",
 			"wkn": "CZ92V0",
 			"name": "Commerzbank Bonus Zert NOK1V 27.03.2014",
 			"isin": "DE000CZ92V01",
@@ -2171,6 +2233,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92V5",
 			"wkn": "CZ92V5",
 			"name": "Commerzbank Bonus Zert NOK1V 27.03.2014",
 			"isin": "DE000CZ92V50",
@@ -2206,6 +2269,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92VF",
 			"wkn": "CZ92VF",
 			"name": "Commerzbank Bonus Zert NOK1V 27.03.2014",
 			"isin": "DE000CZ92VF0",
@@ -2241,6 +2305,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92VP",
 			"wkn": "CZ92VP",
 			"name": "Commerzbank Bonus Zert NOK1V 26.06.2014",
 			"isin": "DE000CZ92VP9",
@@ -2276,6 +2341,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92VX",
 			"wkn": "CZ92VX",
 			"name": "Commerzbank Bonus Zert NOK1V 26.06.2014",
 			"isin": "DE000CZ92VX3",
@@ -2311,6 +2377,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92W5",
 			"wkn": "CZ92W5",
 			"name": "Commerzbank Bonus Zert NOK1V 26.06.2014",
 			"isin": "DE000CZ92W59",
@@ -2346,6 +2413,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92W9",
 			"wkn": "CZ92W9",
 			"name": "Commerzbank Bonus Zert NOK1V 26.06.2014",
 			"isin": "DE000CZ92W91",
@@ -2381,6 +2449,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92WC",
 			"wkn": "CZ92WC",
 			"name": "Commerzbank Bonus Zert NOK1V 25.09.2014",
 			"isin": "DE000CZ92WC5",
@@ -2416,6 +2485,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92WD",
 			"wkn": "CZ92WD",
 			"name": "Commerzbank Bonus Zert NOK1V 25.09.2014",
 			"isin": "DE000CZ92WD3",
@@ -2451,6 +2521,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92WH",
 			"wkn": "CZ92WH",
 			"name": "Commerzbank Bonus Zert NOK1V 25.09.2014",
 			"isin": "DE000CZ92WH4",
@@ -2486,6 +2557,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92WQ",
 			"wkn": "CZ92WQ",
 			"name": "Commerzbank Bonus Zert NOK1V 25.09.2014",
 			"isin": "DE000CZ92WQ5",
@@ -2521,6 +2593,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92WV",
 			"wkn": "CZ92WV",
 			"name": "Commerzbank Bonus Zert NOK1V 25.09.2014",
 			"isin": "DE000CZ92WV5",
@@ -2556,6 +2629,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92X9",
 			"wkn": "CZ92X9",
 			"name": "Commerzbank Bonus Zert NOK1V 25.09.2014",
 			"isin": "DE000CZ92X90",
@@ -2591,6 +2665,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92XM",
 			"wkn": "CZ92XM",
 			"name": "Commerzbank Bonus Zert NOK1V 29.12.2014",
 			"isin": "DE000CZ92XM2",
@@ -2626,6 +2701,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92Y3",
 			"wkn": "CZ92Y3",
 			"name": "Commerzbank Bonus Zert NOK1V 29.12.2014",
 			"isin": "DE000CZ92Y32",
@@ -2661,6 +2737,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92YC",
 			"wkn": "CZ92YC",
 			"name": "Commerzbank Discount Zert ALO 25.09.2014",
 			"isin": "DE000CZ92YC1",
@@ -2696,6 +2773,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92YE",
 			"wkn": "CZ92YE",
 			"name": "Commerzbank Discount Zert CGE 27.03.2014",
 			"isin": "DE000CZ92YE7",
@@ -2731,6 +2809,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92YN",
 			"wkn": "CZ92YN",
 			"name": "Commerzbank Discount Zert CGE 27.03.2014",
 			"isin": "DE000CZ92YN8",
@@ -2766,6 +2845,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92YV",
 			"wkn": "CZ92YV",
 			"name": "Commerzbank Discount Zert CS 29.12.2014",
 			"isin": "DE000CZ92YV1",
@@ -2801,6 +2881,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ92YZ",
 			"wkn": "CZ92YZ",
 			"name": "Commerzbank Discount Zert BNP 29.12.2014",
 			"isin": "DE000CZ92YZ2",
@@ -2836,6 +2917,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ933F",
 			"wkn": "CZ933F",
 			"name": "Commerzbank Discount Zert BNP 29.12.2014",
 			"isin": "DE000CZ933F9",
@@ -2871,6 +2953,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ933N",
 			"wkn": "CZ933N",
 			"name": "Commerzbank Discount Zert ML 29.12.2014",
 			"isin": "DE000CZ933N3",
@@ -2906,6 +2989,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ933W",
 			"wkn": "CZ933W",
 			"name": "Commerzbank Discount Zert OR 29.12.2014",
 			"isin": "DE000CZ933W4",
@@ -2941,6 +3025,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ934C",
 			"wkn": "CZ934C",
 			"name": "Commerzbank Discount Zert UG 29.12.2014",
 			"isin": "DE000CZ934C4",
@@ -2976,6 +3061,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ934K",
 			"wkn": "CZ934K",
 			"name": "Commerzbank Discount Zert RNO 29.12.2014",
 			"isin": "DE000CZ934K7",
@@ -3011,6 +3097,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ934P",
 			"wkn": "CZ934P",
 			"name": "Commerzbank Discount Zert SAN 29.12.2014",
 			"isin": "DE000CZ934P6",
@@ -3046,6 +3133,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ934Q",
 			"wkn": "CZ934Q",
 			"name": "Commerzbank Discount Zert DG 29.12.2014",
 			"isin": "DE000CZ934Q4",
@@ -3081,6 +3169,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "CZ934T",
 			"wkn": "CZ934T",
 			"name": "Commerzbank Discount Zert DG 29.12.2014",
 			"isin": "DE000CZ934T8",
@@ -3116,6 +3205,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "DX3F57",
 			"wkn": "DX3F57",
 			"name": "Commerzbank Discount Zert DG 29.12.2014",
 			"isin": "DE000DX3F572",
@@ -3151,6 +3241,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "DX3FCA",
 			"wkn": "DX3FCA",
 			"name": "EUR/NZD WAVE Unlimited Call",
 			"isin": "DE000DX3FCA6",
@@ -3186,6 +3277,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "DX6UTX",
 			"wkn": "DX6UTX",
 			"name": "Thyssen-Krupp WAVE Put",
 			"isin": "DE000DX6UTX4",
@@ -3221,6 +3313,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "DX6UU7",
 			"wkn": "DX6UU7",
 			"name": "Deutsche Bank Put 1.26 EURUSD 19.08.2013",
 			"isin": "DE000DX6UU70",
@@ -3256,6 +3349,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "GT31WG",
 			"wkn": "GT31WG",
 			"name": "Deutsche Bank Call 0.85 EURGBP 19.08.2013",
 			"isin": "DE000GT31WG8",
@@ -3291,6 +3385,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "PA0BVD",
 			"wkn": "PA0BVD",
 			"name": "Open-End-X-Turbo Bear auf DAX® (Performance Index)/ X-DAX®",
 			"isin": "DE000PA0BVD8",
@@ -3326,6 +3421,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "PA0BVK",
 			"wkn": "PA0BVK",
 			"name": "BNP Paribas Knock-Out DAX",
 			"isin": "DE000PA0BVK3",
@@ -3361,6 +3457,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "PA0BY9",
 			"wkn": "PA0BY9",
 			"name": "BNP Paribas Knock-Out DAX",
 			"isin": "DE000PA0BY93",
@@ -3396,6 +3493,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "PA0BZ4",
 			"wkn": "PA0BZ4",
 			"name": "BNP Paribas Knock-Out DAX 26.09.2013",
 			"isin": "DE000PA0BZ43",
@@ -3431,6 +3529,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "PA0BZ6",
 			"wkn": "PA0BZ6",
 			"name": "BNP Paribas Knock-Out DAX 26.09.2013",
 			"isin": "DE000PA0BZ68",
@@ -3466,6 +3565,7 @@
 			"ersterKupontermin": ""
 		},
 		{
+			"_id": "PA0BZB",
 			"wkn": "PA0BZB",
 			"name": "BNP Paribas Knock-Out DAX 31.10.2013",
 			"isin": "DE000PA0BZB3",
